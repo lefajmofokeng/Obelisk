@@ -357,14 +357,8 @@ function sanitizeTestimonial(text) {
 
 ## License & Usage
 
-This project is available under the MIT License. Commercial use requires attribution. For enterprise licensing or white-label solutions, contact lefamjack@hmail.com.
-
-## Project Information
-
-**Live Demo**: https://thisislefa.github.io/Obelisk  
-**Repository**: https://github.com/thisislefa/Obelisk  
-**Issue Tracker**: https://github.com/thisislefa/Obelisk/issues  
-**Documentation**: https://github.com/thisislefa/Obelisk/wiki  
+This project is available under the MIT License. Commercial use requires attribution. For enterprise licensing or white-label solutions, contact lefamjack@gmail.com.
+ 
 
 ## Technical Support
 
