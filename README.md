@@ -6,7 +6,7 @@
 Obelisk is a sophisticated, production-ready testimonial slider component implementing modern CSS architecture principles with comprehensive accessibility features. This component demonstrates enterprise-grade front-end engineering with a focus on performance, maintainability, and user experience across all device types.
 
 ## Live Deployment
-[View Live Demo](https://thisislefa.github.io/Obelisk)
+[View Live Demo](https://lefajmofokeng.github.io/Obelisk)
 
 ## Core Technical Specifications
 
@@ -283,8 +283,8 @@ describe('Obelisk Review Slider', () => {
 ### CDN Deployment
 ```html
 <!-- Production CDN Links -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thisislefa/Obelisk@latest/dist/styles.min.css">
-<script src="https://cdn.jsdelivr.net/gh/thisislefa/Obelisk@latest/dist/script.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lefajmofokeng/Obelisk@latest/dist/styles.min.css">
+<script src="https://cdn.jsdelivr.net/gh/lefajmofokeng/Obelisk@latest/dist/script.min.js"></script>
 ```
 
 ## Maintenance & Scalability
